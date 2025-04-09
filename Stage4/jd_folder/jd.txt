@@ -1,0 +1,30 @@
+Machine Learning Developer Job Description
+
+Job Title: Machine Learning Developer  
+Location: [Your Location or Remote]  
+Job Type: Full-time  
+
+About the Role:  
+We are seeking a **Machine Learning Developer** to design, develop, and deploy intelligent models that enhance our products and services. You will work on cutting-edge projects involving **data processing, model training, and deployment** to solve real-world problems.  
+
+Responsibilities:  
+- Develop, train, and optimize machine learning models for various applications.  
+- Process, clean, and analyze large datasets to extract meaningful insights.  
+- Design and implement scalable ML pipelines and deploy models in production.  
+- Collaborate with data scientists, engineers, and product teams to integrate ML solutions.  
+- Monitor and improve model performance using evaluation metrics.  
+- Stay updated with the latest advancements in ML, AI, and deep learning.  
+
+Required Skills & Qualifications:  
+- Bachelor's/Master’s degree in Computer Science, Data Science, or a related field.  
+- **Strong programming skills** in Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch).  
+- **Experience with ML frameworks** like TensorFlow, PyTorch, or Keras.  
+- **Understanding of algorithms** like regression, classification, clustering, and deep learning.  
+- Experience with **data preprocessing and feature engineering**.  
+- Knowledge of **cloud platforms** (AWS, GCP, Azure) for model deployment.  
+- Experience with **APIs, Docker, Kubernetes** is a plus.  
+
+Preferred Qualifications:  
+- Experience with **NLP, computer vision, or reinforcement learning**.  
+- Knowledge of **big data technologies** like Spark, Hadoop.  
+- Experience with **MLOps, CI/CD pipelines for ML models**.  

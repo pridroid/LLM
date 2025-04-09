@@ -1,0 +1,4 @@
+2025-04-08 17:55:33,098 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-08 17:55:35,238 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-08 17:55:40,295 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-08 17:55:40,299 | INFO | resume01.pdf | \u2705 Parsed | JD Match: 80%

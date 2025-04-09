@@ -1,0 +1,1 @@
+[2025-04-08 17:20:32] Resume: resume_2.pdf | Status: ✅ Parsed | JD Match: 90%
